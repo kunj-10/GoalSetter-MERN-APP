@@ -1,0 +1,17 @@
+{
+  "name": "mern-auth-project",
+  "version": "1.0.0",
+  "description": "MERN Project with JWT Auth and Redux following-Traversy media",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "server": "node --watch backend/server.js"
+  },
+  "author": "Kunj Vipul Goyal",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.1"
+  }
+}
