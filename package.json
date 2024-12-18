@@ -5,7 +5,8 @@
   "main": "server.js",
   "scripts": {
     "start": "node backend/server.js",
-    "server": "node --watch backend/server.js"
+    "server": "node --watch backend/server.js",
+    "client": "npm run dev --prefix frontend"
   },
   "author": "Kunj Vipul Goyal",
   "license": "MIT",
