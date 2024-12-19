@@ -1,2 +1,2 @@
 # GoalSetter-MERN-APP
-This is a App made to learn MERN Stack
+This is an App made to learn MERN Stack
